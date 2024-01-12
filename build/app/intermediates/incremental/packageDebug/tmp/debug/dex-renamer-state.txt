@@ -1,0 +1,4 @@
+#Thu Jan 11 16:18:44 IST 2024
+base.0=/Volumes/DATA-D/Dhruv/openxcell_demo/moviedb_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

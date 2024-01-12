@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:dio/dio.dart","transitive":false},{"uri":"package:moviedb_demo/core/network/client/dio_client.dart","transitive":false},{"uri":"package:moviedb_demo/core/network/endpoints/endpoints.dart","transitive":false},{"uri":"package:moviedb_demo/di/service_locator.dart","transitive":false}],"elements":[]}

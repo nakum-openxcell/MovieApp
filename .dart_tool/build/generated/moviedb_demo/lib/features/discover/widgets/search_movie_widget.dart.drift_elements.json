@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:flutter/material.dart","transitive":false},{"uri":"package:flutter_mobx/flutter_mobx.dart","transitive":false},{"uri":"package:flutter_screenutil/flutter_screenutil.dart","transitive":false},{"uri":"package:moviedb_demo/features/discover/store/discover_store.dart","transitive":false}],"elements":[]}
