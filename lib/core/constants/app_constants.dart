@@ -1,0 +1,4 @@
+class AppConstants {
+  static String kAPIKey =
+      'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4Y2YzMTFjOTE1MDNhMDBhNmJlZTUwMzFmMzMzMDZkZCIsInN1YiI6IjY1OWQwNGFkYzhhNWFjMDBlZDcxM2FiNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.zjMyX5-r09x1p5i7_kxGBZXyEsena3cJHZBCA0ibLQ4';
+}
